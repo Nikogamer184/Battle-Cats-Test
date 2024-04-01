@@ -416,5 +416,64 @@
                 "title": "Akuma"
             }
         ]
+    },
+    {
+        "title": "\nUnlock all Crazed Cat Units",
+        "items": [
+            {
+                "itemId": 91,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Crazed Cat"
+            },
+            {
+                "itemId": 92,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Crazed Tank Cat"
+            },
+            {
+                "itemId": 93,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Crazed Axe Cat"
+            },
+            {
+                "itemId": 94,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Crazed Gross Cat"
+            },
+            {
+                "itemId": 95,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Crazed Cow Cat"
+            },
+            {
+                "itemId": 96,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Crazed Bird Cat"
+            },
+            {
+                "itemId": 97,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Crazed Fish Cat"
+            },
+            {
+                "itemId": 98,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Crazed Lizard Cat"
+            },
+            {
+                "itemId": 99,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Crazed Titan Cat"
+            }
+        ]
     }
 ]
