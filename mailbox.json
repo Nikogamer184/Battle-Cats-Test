@@ -475,5 +475,16 @@
                 "title": "Crazed Titan Cat"
             }
         ]
+    },
+    {
+        "title": "\nUnlock Infinity Cat",
+        "items": [
+            {
+                "itemId": 673,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Infinity Cat"
+            },
+        ]
     }
 ]
