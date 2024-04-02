@@ -418,7 +418,7 @@
         ]
     },
     {
-        "title": "\nUnlock all Crazed Cat Units",
+        "title": "\nUnlock all Crazed Units",
         "items": [
             {
                 "itemId": 91,
@@ -473,6 +473,17 @@
                 "itemCategory": 1,
                 "amount": 1,
                 "title": "Crazed Titan Cat"
+            }
+        ]
+    },
+    {
+        "title": "\nUnlock Infinity Cat",
+        "items": [
+            {
+                "itemId": 673,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": "Infinity Cat"
             }
         ]
     }
