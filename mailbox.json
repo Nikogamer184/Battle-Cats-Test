@@ -477,13 +477,19 @@
         ]
     },
     {
-        "title": "\nUnlock Infinity Cat",
+        "title": "\nUnlock all Overpowered Units",
         "items": [
             {
                 "itemId": 673,
                 "itemCategory": 1,
                 "amount": 1,
-                "title": "Infinity Cat"
+                "title": ""
+            },
+            {
+                "itemId": 608,
+                "itemCategory": 1,
+                "amount": 1,
+                "title": ""
             }
         ]
     }
